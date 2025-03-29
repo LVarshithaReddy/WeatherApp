@@ -49,11 +49,3 @@ cd weather
 let apiKey = "Your API Key";
 ``` 
 4. Open `index.html` in your browser to view the project.
-
-### Usage
-
-To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
-
-`
-Note :- For Best Experience See This Website on 400*860 
-`
